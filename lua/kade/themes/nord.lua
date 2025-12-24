@@ -28,10 +28,10 @@ local colors = {
   nord14 = "#A3BE8C", -- green
   nord15 = "#B48EAD", -- purple
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original nord3: #4C566A (contrast ~2.9:1)
-  -- New: #7B88A1 (contrast ~5.5:1, WCAG AA compliant)
-  comment = "#7B88A1",
+  -- KADE MODIFICATION: Bright, vivid comments using Nord's frost cyan
+  -- Original nord3: #4C566A (very muted, hard to read)
+  -- New: Using nord8 cyan - bright and fits the arctic aesthetic
+  comment = "#88C0D0",
 
   none = "NONE",
 }

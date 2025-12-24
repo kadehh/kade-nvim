@@ -21,10 +21,10 @@ local colors = {
   highlight_med = "#403d52",
   highlight_high = "#524f67",
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original muted: #6e6a86 (contrast ~4.3:1)
-  -- New: #908caa (using subtle, contrast ~6.0:1, WCAG AA compliant)
-  comment = "#908caa",
+  -- KADE MODIFICATION: Bright, vivid comments using iris purple
+  -- Original muted: #6e6a86 (too dim)
+  -- New: Iris purple - bright and fits the dreamy rose pine aesthetic
+  comment = "#c4a7e7",
 
   none = "NONE",
 }

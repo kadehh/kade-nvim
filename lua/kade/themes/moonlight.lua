@@ -36,10 +36,10 @@ local colors = {
   dark3 = "#545c7e",
   dark5 = "#737aa2",
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original: #636da6 (contrast ~4.5:1)
-  -- New: #8690c0 (contrast ~6.0:1, WCAG AA compliant, bluish gray)
-  comment = "#8690c0",
+  -- KADE MODIFICATION: Bright, vivid comments using teal
+  -- Original: #636da6 (muted, hard to read)
+  -- New: Bright teal - vibrant and fits the space/lunar aesthetic
+  comment = "#4fd6be",
 
   -- Git
   git_add = "#b8db87",

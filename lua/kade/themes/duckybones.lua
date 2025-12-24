@@ -27,10 +27,10 @@ local colors = {
   purple = "#bc8cff",
   pink = "#ff7b72",
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original fg_muted: #6e7681 (contrast ~4.2:1)
-  -- New: #919aa6 (contrast ~6.0:1, WCAG AA compliant)
-  comment = "#919aa6",
+  -- KADE MODIFICATION: Bright, vivid comments using gold
+  -- Original fg_muted: #6e7681 (muted, hard to read)
+  -- New: Warm gold - bright and fits the duck/warm theme aesthetic
+  comment = "#e3b341",
 
   -- Git
   git_add = "#56d364",

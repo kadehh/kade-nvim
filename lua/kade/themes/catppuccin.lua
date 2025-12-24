@@ -33,10 +33,10 @@ local colors = {
   mantle = "#181825",
   crust = "#11111b",
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original overlay0: #6c7086 (contrast ~4.8:1)
-  -- New: #9399b2 (overlay2, contrast ~7.0:1, WCAG AA compliant)
-  comment = "#9399b2",
+  -- KADE MODIFICATION: Bright, vivid comments using lavender
+  -- Original overlay0: #6c7086 (muted, hard to read)
+  -- New: Lavender - bright pastel that fits the Catppuccin aesthetic
+  comment = "#b4befe",
 
   none = "NONE",
 }

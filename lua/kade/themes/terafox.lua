@@ -34,10 +34,10 @@ local colors = {
   -- Extended palette
   comment_original = "#6d7f8b", -- original comment color
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original: #6d7f8b (contrast ~4.5:1)
-  -- New: #8fa5b0 (contrast ~6.5:1, WCAG AA compliant, cool tone)
-  comment = "#8fa5b0",
+  -- KADE MODIFICATION: Bright, vivid comments using theme's cyan
+  -- Original: #6d7f8b (muted, hard to read)
+  -- New: Bright cyan that matches Terafox's teal-focused palette
+  comment = "#a1cdd8",
 
   -- Git
   git_add = "#70a288",

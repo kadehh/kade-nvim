@@ -14,10 +14,10 @@ local colors = {
   fg_dark = "#a9b1d6",
   fg_gutter = "#3b4261",
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original: #565f89 (contrast ~4.1:1)
-  -- New: #7f85a3 (contrast ~6.5:1, WCAG AA compliant)
-  comment = "#7f85a3",
+  -- KADE MODIFICATION: Bright, vivid comments using theme's cyan accent
+  -- Original: #565f89 (muted, hard to read)
+  -- New: Bright cyan that pops against dark background
+  comment = "#7dcfff",
 
   -- Syntax colors
   blue = "#7aa2f7",

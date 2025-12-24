@@ -16,10 +16,10 @@ local colors = {
   fg_dark = "#C8C093",
   fg_comment = "#727169", -- original
 
-  -- KADE MODIFICATION: Brighter, more readable comments
-  -- Original: #727169 (contrast ~4.5:1)
-  -- New: #9a9587 (contrast ~6.2:1, WCAG AA compliant, warm tone)
-  comment = "#9a9587",
+  -- KADE MODIFICATION: Bright, vivid comments using crystal blue
+  -- Original: #727169 (muted gray, hard to read)
+  -- New: Crystal blue - bright yet harmonious with Japanese ink aesthetic
+  comment = "#7FB4CA",
 
   -- Diagnostic/UI
   diag_error = "#E82424",
