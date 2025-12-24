@@ -12,7 +12,7 @@ M.config = {
 -- Available themes in the collection
 M.themes = {
   "kade-tokyonight",
-  "kade-duckybones",
+  "kade-duckbones",
   "kade-nord",
   "kade-moonlight",
   "kade-terafox",

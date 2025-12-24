@@ -7,7 +7,7 @@ vim.g.loaded_kade = true
 -- Create commands for each theme
 local themes = {
   "kade-tokyonight",
-  "kade-duckybones",
+  "kade-duckbones",
   "kade-nord",
   "kade-moonlight",
   "kade-terafox",
